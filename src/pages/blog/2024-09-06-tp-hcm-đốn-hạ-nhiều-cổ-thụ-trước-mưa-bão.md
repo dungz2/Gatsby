@@ -6,10 +6,10 @@ description: abc
 featuredpost: true
 featuredimage: /img/image1.png
 ---
-Nhiều cổ thụ trồng dọc các đường lớn ở trung tâm TP HCM được tăng cường cắt tỉa, cây có dấu hiệu mục ruỗng, sâu bệnh bị chặt hạ đề phòng gãy đổ khi mưa bão.
+[](https://vnexpress.net/tp-hcm-don-ha-nhieu-co-thu-truoc-mua-bao-4789816.html)Nhiều cổ thụ trồng dọc các đường lớn ở trung tâm TP HCM được tăng cường cắt tỉa, cây có dấu hiệu mục ruỗng, sâu bệnh bị chặt hạ đề phòng gãy đổ khi mưa bão.
 
 Sáng 6/9, gần chục nhân viên cây xanh được huy động đốn hạ cây sao đen lớn trên đường Phạm Ngọc Thạch, đoạn trước Đại học Kinh tế TP HCM thuộc địa bàn quận 3. Thân cây có đường kính khoảng 70 cm, phần gốc hơn một mét có dấu hiệu mục rễ được công nhân cưa ngắn, đào bứng khỏi vỉa hè.
 
 "Đây là một trong những cây trồng lâu năm đã trong tình trạng già cỗi, mục gốc, nguy cơ mất an toàn", một nhân viên cây xanh nói.
 
-<!--EndFragment-->
+[link](https://vnexpress.net/tp-hcm-don-ha-nhieu-co-thu-truoc-mua-bao-4789816.html)
